@@ -59,4 +59,5 @@ Structures from CONQUEST letter to JCTC.
 | N3P3H12_1           | :x:                 | Single ring |
 | antdimer            | :x:                 | No torsion angles |
 | octane1             | :x:                 | No torsion angles |
+| octane2             | :x:                 | Too many torsion angles for finite difference optimisation with compute capacity |
 | F22f                | :x:                 | Too many torsion angles for finite difference optimisation with compute capacity |
