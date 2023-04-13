@@ -3,8 +3,6 @@ Structures from CONQUEST letter to JCTC.
 
 ## Included Molecules
 
-molecules = ['H_ttt', 'P_TT', 'B_T', 'C1', 'G1', '1', '99', 'N4H6_1', 'H4P2O7', 'H2S2O7_1', 'SI5H12_1', 'ALA_xai', 'ARG_xak', 'ASN_xab', 'ASP_xau', 'GLN_xai', 'GLU_xal', 'GLY_xac', 'HIS_xau', 'ILE_xaj', 'LEU_xad', 'LYS_xan', 'PHE_xaw', 'PRO_xac', 'THR_xab', 'TRP_xaf', 'TYR_xar', 'VAL_xak']
-
 | Molecule Name       | Included            | Reasoning |
 | :---                | :---:               | ---: |
 | H_ttt               | :heavy_check_mark:  | |
@@ -43,3 +41,22 @@ molecules = ['H_ttt', 'P_TT', 'B_T', 'C1', 'G1', '1', '99', 'N4H6_1', 'H4P2O7', 
 | cysteine            | :heavy_check_mark:  | |
 | serine              | :heavy_check_mark:  | |
 | aspartic-acid       | :heavy_check_mark:  | |
+| MET_xbm             | :x:                 | Should run... |
+| N3H5_1              | :x:                 | Should run... |
+| SER_xak             | :x:                 | Should run... |
+| B11                 | :x:                 | Should run... |
+| GLY_b               | :x:                 | Should run... |
+| CYS_xag             | :x:                 | Should run... |
+| SER_aL              | :x:                 | Beyond 40 atom cap |
+| pc22                | :x:                 | Single ring |
+| ant                 | :x:                 | No torison angles |
+| P7H7_1              | :x:                 | Single ring |
+| SI6H12_1            | :x:                 | Single ring |
+| octane2             | :x:                 | Too many torsion angles for finite difference optimisation with compute capacity |
+| 2p                  | :x:                 | Beyond 40 atom cap |
+| F14f                | :x:                 | Too many torsion angles for finite difference optimisation with compute capacity |
+| S8_1                | :x:                 | Single ring |
+| N3P3H12_1           | :x:                 | Single ring |
+| antdimer            | :x:                 | No torsion angles |
+| octane1             | :x:                 | No torsion angles |
+| F22f                | :x:                 | Too many torsion angles for finite difference optimisation with compute capacity |
