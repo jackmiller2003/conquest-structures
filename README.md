@@ -41,12 +41,12 @@ Structures from CONQUEST letter to JCTC.
 | cysteine            | :heavy_check_mark:  | |
 | serine              | :heavy_check_mark:  | |
 | aspartic-acid       | :heavy_check_mark:  | |
-| MET_xbm             | :x:                 | Should run... |
-| N3H5_1              | :x:                 | Should run... |
-| SER_xak             | :x:                 | Should run... |
-| B11                 | :x:                 | Should run... |
-| GLY_b               | :x:                 | Should run... |
-| CYS_xag             | :x:                 | Should run... |
+| MET_xbm             | :heavy_check_mark:  | |
+| SER_xak             | :heavy_check_mark:  | |
+| B11                 | :heavy_check_mark:  | |
+| GLY_b               | :heavy_check_mark:  | |
+| CYS_xag             | :heavy_check_mark:  | |
+| N3H5_1              | :x:                 | CONQUEST could not identify enough Torsion angles |
 | SER_aL              | :x:                 | Beyond 40 atom cap |
 | pc22                | :x:                 | Single ring |
 | ant                 | :x:                 | No torison angles |
