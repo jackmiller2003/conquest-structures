@@ -7,9 +7,19 @@ Structures from CONQUEST letter to JCTC. The file structure is as follows:
       - CONQUEST-6-31G-new: The CONQUEST structures found via 6-31G*
       - CONUQEST-STO-old: The CONQUEST structures found via STO-3G with an old selection mechanism
       - setConformerSearch: The ground-truth set of conformers
+    - (Molecule)
+      - ...
+      - ...
+    - ...
   - ligands
-  - 
+    - (Molecule)
+      - crest: The crest structures
+      - Molecule-(i): The ith run of CONQUEST with the molecule
+    - ...
   - rna
+      - (Molecule)
+        - crest: The crest structures
+        - Molecule-ngpus4-(i): The ith run of CONQUEST with the molecule with 4 GPUs
 
 ## Included Molecules in GMTKN55 Dataset
 
