@@ -22,10 +22,10 @@ _ligands_
   - ...
 
 _rna_
-    - (Molecule)
-      - crest: The crest structures
-      - Molecule-ngpus4-(i): The ith run of CONQUEST with the molecule with 4 GPUs
-    - ...
+  - (Molecule)
+    - crest: The crest structures
+    - Molecule-ngpus4-(i): The ith run of CONQUEST with the molecule with 4 GPUs
+  - ...
 
 ## Included Molecules in GMTKN55 Dataset
 
