@@ -1,5 +1,5 @@
 # conquest-structures
-Structures from CONQUEST letter to JCTC. The file structure for each of the three zip files is explained below. In addition the exact structures used during benchmarking are provided in the tables.
+Structures from CONQUEST letter to JCTC. The file structure for each of the three zip files is explained below. In addition, the exact structures used during benchmarking are provided in the tables.
 
 ## File Structure
 
