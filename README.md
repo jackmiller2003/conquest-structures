@@ -1,7 +1,7 @@
 # conquest-structures
 Structures from CONQUEST letter to JCTC.
 
-## Included Molecules
+## Included Molecules in GMTKN55 Dataset
 
 | Molecule Name       | Included            | Reasoning |
 | :---                | :---:               | ---: |
@@ -61,3 +61,20 @@ Structures from CONQUEST letter to JCTC.
 | octane1             | :x:                 | No torsion angles |
 | octane2             | :x:                 | Too many torsion angles for finite difference optimisation with compute capacity |
 | F22f                | :x:                 | Too many torsion angles for finite difference optimisation with compute capacity |
+
+## Included Structures from OMEGA Validation Set
+
+| Molecule Name       | Included            |
+| :---                | :---:               |
+| PEZ                 | :heavy_check_mark:  |
+| ANP                 | :heavy_check_mark:  |
+| L4G                 | :heavy_check_mark:  |
+
+## Random RNA Sequences
+
+| Molecule Name       | Included            |
+| :---                | :---:               |
+| GUA                 | :heavy_check_mark:  |
+| UCC                 | :heavy_check_mark:  |
+| GUC                 | :heavy_check_mark:  |
+| GAC                 | :heavy_check_mark:  |
