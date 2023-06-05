@@ -3,7 +3,7 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 
 ## File Structure
 
-_GMTKN55_and_bayesian_
+**_GMTKN55_and_bayesian_**
   - (Molecule)
     - crest: The crest structures
     - CONQUEST-CC-new: The CONQUEST structures found via cc-pVDZ
@@ -15,13 +15,13 @@ _GMTKN55_and_bayesian_
     - ...
   - ...
 
-_ligands_
+**_ligands_**
   - (Molecule)
     - crest: The crest structures
     - Molecule-(i): The ith run of CONQUEST with the molecule
   - ...
 
-_rna_
+**_rna_**
   - (Molecule)
     - crest: The crest structures
     - Molecule-ngpus4-(i): The ith run of CONQUEST with the molecule with 4 GPUs
