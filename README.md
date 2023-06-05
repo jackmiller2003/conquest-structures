@@ -1,5 +1,15 @@
 # conquest-structures
-Structures from CONQUEST letter to JCTC.
+Structures from CONQUEST letter to JCTC. The file structure is as follows:
+  - GMTKN55_and_bayesian
+    - (Molecule)
+      - crest: The crest structures
+      - CONQUEST-CC-new: The CONQUEST structures found via cc-pVDZ
+      - CONQUEST-6-31G-new: The CONQUEST structures found via 6-31G*
+      - CONUQEST-STO-old: The CONQUEST structures found via STO-3G with an old selection mechanism
+      - setConformerSearch: The ground-truth set of conformers
+  - ligands
+  - 
+  - rna
 
 ## Included Molecules in GMTKN55 Dataset
 
