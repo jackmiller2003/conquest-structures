@@ -1,25 +1,30 @@
 # conquest-structures
-Structures from CONQUEST letter to JCTC. The file structure is as follows:
-  - GMTKN55_and_bayesian
+Structures from CONQUEST letter to JCTC. The file structure for each of the three zip files is explained below. In addition the exact structures used during benchmarking are provided in the tables.
+
+## File Structure
+
+_GMTKN55_and_bayesian_
+  - (Molecule)
+    - crest: The crest structures
+    - CONQUEST-CC-new: The CONQUEST structures found via cc-pVDZ
+    - CONQUEST-6-31G-new: The CONQUEST structures found via 6-31G*
+    - CONUQEST-STO-old: The CONQUEST structures found via STO-3G with an old selection mechanism
+    - setConformerSearch: The ground-truth set of conformers
+  - (Molecule)
+    - ...
+    - ...
+  - ...
+
+_ligands_
+  - (Molecule)
+    - crest: The crest structures
+    - Molecule-(i): The ith run of CONQUEST with the molecule
+  - ...
+
+_rna_
     - (Molecule)
       - crest: The crest structures
-      - CONQUEST-CC-new: The CONQUEST structures found via cc-pVDZ
-      - CONQUEST-6-31G-new: The CONQUEST structures found via 6-31G*
-      - CONUQEST-STO-old: The CONQUEST structures found via STO-3G with an old selection mechanism
-      - setConformerSearch: The ground-truth set of conformers
-    - (Molecule)
-      - ...
-      - ...
-    - ...
-  - ligands
-    - (Molecule)
-      - crest: The crest structures
-      - Molecule-(i): The ith run of CONQUEST with the molecule
-    - ...
-  - rna
-      - (Molecule)
-        - crest: The crest structures
-        - Molecule-ngpus4-(i): The ith run of CONQUEST with the molecule with 4 GPUs
+      - Molecule-ngpus4-(i): The ith run of CONQUEST with the molecule with 4 GPUs
 
 ## Included Molecules in GMTKN55 Dataset
 
