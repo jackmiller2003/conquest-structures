@@ -72,14 +72,14 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 | B11                 | :heavy_check_mark:  | |
 | GLY_b               | :heavy_check_mark:  | |
 | CYS_xag             | :heavy_check_mark:  | |
+| SER_aL              | :heavy_check_mark:  | |
+| 2p                  | :heavy_check_mark:  | |
 | N3H5_1              | :x:                 | CONQUEST could not identify enough Torsion angles |
-| SER_aL              | :x:                 | Beyond 40 atom cap |
 | pc22                | :x:                 | Single ring |
 | ant                 | :x:                 | No torison angles |
 | P7H7_1              | :x:                 | Single ring |
 | SI6H12_1            | :x:                 | Single ring |
 | octane2             | :x:                 | Too many torsion angles for finite difference optimisation with compute capacity |
-| 2p                  | :x:                 | Beyond 40 atom cap |
 | F14f                | :x:                 | Too many torsion angles for finite difference optimisation with compute capacity |
 | S8_1                | :x:                 | Single ring |
 | N3P3H12_1           | :x:                 | Single ring |
