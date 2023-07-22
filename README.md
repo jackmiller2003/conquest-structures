@@ -73,7 +73,7 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 | GLY_b               | :heavy_check_mark:  | |
 | CYS_xag             | :heavy_check_mark:  | |
 | SER_aL              | :heavy_check_mark:  | |
-| 2p                  | :heavy_check_mark:  | |
+| 2p                  | :x:                 | Reached 4 hour in-node limit on the Gadi supercomputer |
 | N3H5_1              | :x:                 | CONQUEST could not identify enough Torsion angles |
 | pc22                | :x:                 | Single ring |
 | ant                 | :x:                 | No torison angles |
