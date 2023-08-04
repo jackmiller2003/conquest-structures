@@ -1,6 +1,7 @@
-from analysis import *
 import copy
 import pprint
+
+from analysis import *
 
 experiments = []
 
@@ -14,7 +15,6 @@ lmolecules = [
     "99",
     "N4H6_1",
     "H4P2O7",
-    # "H2S2O7_1", # crest could not generate a conformer
     "SI5H12_1",
     "ALA_xai",
     "ARG_xak",
@@ -72,16 +72,11 @@ for nConfs in [1, 3, 5]:
     )
     pprint.pprint(copied_collection.getTopMetrics(top=nConfs, cutoff=0.00190439916))
 
-
-nConfs = 1
-
 copied_collection = copy.deepcopy(expCollection)
 
 copied_collection.buildRelevantStats(
-    nConfs=nConfs,
+    nConfs=1,
     baselines=["setConformerSearch", "genetic", "crest"],
 )
 
-copied_collection.graphEnergyBarPlot(
-    "graphs"
-)
+copied_collection.graphEnergyBarPlot("graphs")
