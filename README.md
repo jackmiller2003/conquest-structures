@@ -6,25 +6,17 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 **_GMTKN55_and_bayesian_**
   - (Molecule)
     - crest: The crest structures
-    - CONQUEST-CC-new: The CONQUEST structures found via cc-pVDZ
-    - CONQUEST-6-31G-new: The CONQUEST structures found via 6-31G*
-    - CONUQEST-STO-old: The CONQUEST structures found via STO-3G with an old selection mechanism
+    - genetic: The CONQUEST structures found via cc-pVDZ
     - setConformerSearch: The ground-truth set of conformers
   - (Molecule)
     - ...
     - ...
   - ...
 
-**_ligands_**
+**_ligand_benchmark**
   - (Molecule)
     - crest: The crest structures
     - Molecule-(i): The ith run of CONQUEST with the molecule
-  - ...
-
-**_rna_**
-  - (Molecule)
-    - crest: The crest structures
-    - Molecule-ngpus4-(i): The ith run of CONQUEST with the molecule with 4 GPUs
   - ...
 
 ## Included Molecules in GMTKN55 Dataset
@@ -40,7 +32,6 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 | 99                  | :heavy_check_mark:  | |
 | N4H6_1              | :heavy_check_mark:  | |
 | H4P2O7              | :heavy_check_mark:  | |
-| H2S2O7_1            | :heavy_check_mark:  | |
 | SI5H12_1            | :heavy_check_mark:  | |
 | ALA_xai             | :heavy_check_mark:  | |
 | ARG_xak             | :heavy_check_mark:  | |
@@ -73,6 +64,7 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 | GLY_b               | :heavy_check_mark:  | |
 | CYS_xag             | :heavy_check_mark:  | |
 | SER_aL              | :heavy_check_mark:  | |
+| H2S2O7_1            | :x:                 | CREST failed to run |
 | 2p                  | :x:                 | Reached 4 hour in-node limit on the Gadi supercomputer |
 | N3H5_1              | :x:                 | CONQUEST could not identify enough Torsion angles |
 | pc22                | :x:                 | Single ring |
