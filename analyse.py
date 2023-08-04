@@ -48,7 +48,7 @@ lmolecules = [
 
 for name in lmolecules:
     exp = Experiment(
-        f"/g/data/kx58/jm0124/gResearch/gResults/rdkit_random/{name}",
+        f"gmtkn55_and_bay_aminos/{name}",
         name,
         baselines=[
             "setConformerSearch",
