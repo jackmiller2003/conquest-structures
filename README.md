@@ -84,15 +84,7 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 
 | Molecule Name       | Included            |
 | :---                | :---:               |
-| PEZ                 | :heavy_check_mark:  |
-| ANP                 | :heavy_check_mark:  |
-| L4G                 | :heavy_check_mark:  |
-
-## Random RNA Sequences
-
-| Molecule Name       | Included            |
-| :---                | :---:               |
-| GUA                 | :heavy_check_mark:  |
-| UCC                 | :heavy_check_mark:  |
-| GUC                 | :heavy_check_mark:  |
-| GAC                 | :heavy_check_mark:  |
+| DG                  | :heavy_check_mark:  |
+| FC3                 | :heavy_check_mark:  |
+| I1P                 | :heavy_check_mark:  |
+| VDX                 | :heavy_check_mark:  |
