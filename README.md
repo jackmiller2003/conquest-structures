@@ -1,23 +1,26 @@
 # conquest-structures
+
 Structures from CONQUEST letter to JCTC. The file structure for each of the three zip files is explained below. In addition, the exact structures used during benchmarking are provided in the tables.
 
 ## File Structure
 
 **_GMTKN55_and_bayesian_**
-  - (Molecule)
-    - crest: The crest structures
-    - genetic: The CONQUEST structures found via cc-pVDZ
-    - setConformerSearch: The ground-truth set of conformers
-  - (Molecule)
-    - ...
-    - ...
+
+- (Molecule)
+  - crest: The crest structures
+  - genetic: The CONQUEST structures found via cc-pVDZ
+  - setConformerSearch: The ground-truth set of conformers
+- (Molecule)
   - ...
+  - ...
+- ...
 
 **_ligand_benchmark**
-  - (Molecule)
-    - crest: The crest structures
-    - Molecule-(i): The ith run of CONQUEST with the molecule
-  - ...
+
+- (Molecule)
+  - crest: The crest structures
+  - Molecule-(i): The ith run of CONQUEST with the molecule
+- ...
 
 ## Included Molecules in GMTKN55 Dataset
 
@@ -87,4 +90,3 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 | DG                  | :heavy_check_mark:  |
 | FC3                 | :heavy_check_mark:  |
 | I1P                 | :heavy_check_mark:  |
-| VDX                 | :heavy_check_mark:  |

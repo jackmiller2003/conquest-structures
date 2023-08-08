@@ -85,11 +85,11 @@ class ExperimentCollection:
             prev_binned = -10
             label = bl
             if bl == "setConformerSearch":
-                label = "Reference"
+                label = "Reference (GMTKN55 + BOSS)"
             if bl == "genetic":
-                label = "CONQUEST (CC-pVDZ)"
+                label = "CONQUEST (SRS-RI-MP2/cc-pVDZ)"
             if bl == "crest":
-                label = "CREST (GFN-2)"
+                label = "CREST (GFN2-xTB)"
 
             c = colors[i]
 
