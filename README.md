@@ -95,15 +95,12 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 
 | Molecule Name       | Included            | Reasoning |
 | :---                | :---:               | ---: |
-| antropine           | :heavy_check_mark:  | |
-| artemizinin         | :heavy_check_mark:  | |
 | cembrene            | :heavy_check_mark:  | |
 | cimetidine          | :heavy_check_mark:  | |
 | dapiprazole         | :heavy_check_mark:  | |
 | eperisone           | :heavy_check_mark:  | |
 | fotemustin          | :heavy_check_mark:  | |
 | gaba                | :heavy_check_mark:  | |
-| gemcitabine         | :heavy_check_mark:  | |
 | glufosinate         | :heavy_check_mark:  | |
 | indometacin         | :heavy_check_mark:  | |
 | isradipine          | :heavy_check_mark:  | |
@@ -117,21 +114,24 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 | prostaglandin       | :heavy_check_mark:  | |
 | pyridoxalphosphate  | :heavy_check_mark:  | |
 | quinuclidinyl       | :heavy_check_mark:  | |
-| rambo               | :heavy_check_mark:  | |
 | rh34                | :heavy_check_mark:  | |
 | rolipram            | :heavy_check_mark:  | |
 | rosmaridiphenol     | :heavy_check_mark:  | |
 | shiepox_depox       | :heavy_check_mark:  | |
 | takemoto            | :heavy_check_mark:  | |
 | triacetin           | :heavy_check_mark:  | |
-| tsogoeva            | :heavy_check_mark:  | |
 | uh232               | :heavy_check_mark:  | |
 | VX                  | :heavy_check_mark:  | |
 | WAY100635           | :heavy_check_mark:  | |
 | xylitolpentanit     | :heavy_check_mark:  | |
-| cryptand            | :x:                 | Macrocycle        |
-| bispidin            | :x:                 | Macrocycle        |
+| atropine            | :x:                 | RDKIT failed to embed molecule |
+| artemizinin         | :x:                 | RDKIT failed to embed molecule |
 | 18crown6            | :x:                 | Macrocycle        |
+| bispidin            | :x:                 | Macrocycle        |
+| cryptand            | :x:                 | Macrocycle        |
+| gemcitabine         | :x:                 | RDKIT failed to embed molecule |
+| rambo               | :x:                 | RDKIT failed to embed molecule |
+| tsogoeva            | :x:                 | RDKIT failed to embed molecule |
 
 ## CONF196
 
