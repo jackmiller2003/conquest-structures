@@ -132,3 +132,22 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 | cryptand            | :x:                 | Macrocycle        |
 | bispidin            | :x:                 | Macrocycle        |
 | 18crown6            | :x:                 | Macrocycle        |
+
+## CONF196
+
+| Molecule Name       | Included            | Reasoning |
+| :---                | :---:               | ---: |
+| COHVAW              | :heavy_check_mark:  | |
+| FGG                 | :heavy_check_mark:  | |
+| GFA                 | :heavy_check_mark:  | |
+| GGf01               | :heavy_check_mark:  | |
+| GS464               | :heavy_check_mark:  | |
+| GS557               | :heavy_check_mark:  | |
+| SANGLI              | :heavy_check_mark:  | |
+| WG                  | :heavy_check_mark:  | |
+| WGG                 | :heavy_check_mark:  | |
+| YIVNOG              | :heavy_check_mark:  | |
+| POXTRD              | :x:                 | Macrocycle        |
+| CAMVES              | :x:                 | Macrocycle        |
+| CHPSAR              | :x:                 | Macrocycle        |
+| 18crown6            | :x:                 | Macrocycle        |
