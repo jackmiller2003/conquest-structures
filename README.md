@@ -90,3 +90,45 @@ Structures from CONQUEST letter to JCTC. The file structure for each of the thre
 | DG                  | :heavy_check_mark:  |
 | FC3                 | :heavy_check_mark:  |
 | I1P                 | :heavy_check_mark:  |
+
+## Included Molecules in 37Conf8 Dataset
+
+| Molecule Name       | Included            | Reasoning |
+| :---                | :---:               | ---: |
+| antropine           | :heavy_check_mark:  | |
+| artemizinin         | :heavy_check_mark:  | |
+| cembrene            | :heavy_check_mark:  | |
+| cimetidine          | :heavy_check_mark:  | |
+| dapiprazole         | :heavy_check_mark:  | |
+| eperisone           | :heavy_check_mark:  | |
+| fotemustin          | :heavy_check_mark:  | |
+| gaba                | :heavy_check_mark:  | |
+| gemcitabine         | :heavy_check_mark:  | |
+| glufosinate         | :heavy_check_mark:  | |
+| indometacin         | :heavy_check_mark:  | |
+| isradipine          | :heavy_check_mark:  | |
+| knoevenagel         | :heavy_check_mark:  | |
+| liu                 | :heavy_check_mark:  | |
+| mannosulfan         | :heavy_check_mark:  | |
+| n_iprit             | :heavy_check_mark:  | |
+| oseltamivir         | :heavy_check_mark:  | |
+| pantoprazole        | :heavy_check_mark:  | |
+| propranolol         | :heavy_check_mark:  | |
+| prostaglandin       | :heavy_check_mark:  | |
+| pyridoxalphosphate  | :heavy_check_mark:  | |
+| quinuclidinyl       | :heavy_check_mark:  | |
+| rambo               | :heavy_check_mark:  | |
+| rh34                | :heavy_check_mark:  | |
+| rolipram            | :heavy_check_mark:  | |
+| rosmaridiphenol     | :heavy_check_mark:  | |
+| shiepox_depox       | :heavy_check_mark:  | |
+| takemoto            | :heavy_check_mark:  | |
+| triacetin           | :heavy_check_mark:  | |
+| tsogoeva            | :heavy_check_mark:  | |
+| uh232               | :heavy_check_mark:  | |
+| VX                  | :heavy_check_mark:  | |
+| WAY100635           | :heavy_check_mark:  | |
+| xylitolpentanit     | :heavy_check_mark:  | |
+| cryptand            | :x:                 | Macrocycle        |
+| bispidin            | :x:                 | Macrocycle        |
+| 18crown6            | :x:                 | Macrocycle        |
